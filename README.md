@@ -16,4 +16,4 @@ I am a software developer specialized in JavaScript with solid experience in cre
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,jquery,react,vite,nextjs,express,nodejs,tailwind,bootstrap,prisma,net,mongodb,mysql,git,github,jest,aws,figma,xd,photoshop,illustrator)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,jquery,react,vite,nextjs,express,nodejs,tailwind,bootstrap,prisma,net,mongodb,mysql,git,github,jest,aws,figma,xd,photoshop,illustrator)](https://luisdavidlopera.com)
