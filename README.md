@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi devs, my name is Luis David Lopera! 👋
 
-<!--
-**luisdlopera/luisdlopera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a software developer specialized in JavaScript with solid experience in creating attractive and functional user interfaces. I have worked on projects that stand out for their quality and performance, using cutting-edge technologies such as Context API, MERN stack, Hooks, JWT, Next.js, Styled Components, and more. My focus is on creating intuitive and efficient user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently
+
+🔭 I am currently working with technologies like Vite.js and Next.js.
+
+🌱 I’m currently learning NestJS and AngularJS.
+
+😄 I have experience with .NET and SQL.
+
+📫 How to reach me: info@luisdavidlopera.com
+
+## Skills
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,jquery,react,vite,nextjs,express,nodejs,tailwind,bootstrap,prisma,net,mongodb,mysql,git,github,jest,aws,figma,xd,photoshop,illustrator)](https://skillicons.dev)
