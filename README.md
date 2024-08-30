@@ -1,18 +1,18 @@
-### Hi devs, my name is Luis David Lopera! 👋
+## Hi devs, my name is Luis David Lopera! 👋
 
 ## About Me
 
-I am a software developer specialized in JavaScript with solid experience in creating attractive and functional user interfaces. I have worked on projects that stand out for their quality and performance, using cutting-edge technologies such as Context API, MERN stack, Hooks, JWT, Next.js, Styled Components, and more. My focus is on creating intuitive and efficient user experiences.
+I'm a software developer specializing in JavaScript with a solid track record in creating attractive, functional, and high-performance user interfaces. I've worked on projects that stand out for their quality and efficiency, using modern technologies such as React, Next.js, Vite.js, MERN stack, Context API, Hooks, JWT, and Styled Components. My passion for UI/UX allows me to effectively collaborate with design teams to create products that offer an intuitive and engaging user experience.
 
 ## Currently
 
-🔭 I am currently working with technologies like Vite.js and Next.js.
+🔭 I'm focused on projects using Vite.js and Next.js, where I explore innovative solutions to improve the user experience.
 
-🌱 I’m currently learning NestJS and AngularJS.
+🌱 Constantly learning, I'm currently delving into NestJS and Angular, expanding my knowledge in both frontend and backend technologies.
 
-😄 I have experience with .NET and SQL.
+😄 I also have experience in .NET and SQL, which gives me a comprehensive perspective for full-stack development.
 
-📫 How to reach me: info@luisdavidlopera.com
+📫 You can contact me at: info@luisdavidlopera.com
 
 ## Skills
 
